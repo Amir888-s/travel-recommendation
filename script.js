@@ -1,7 +1,7 @@
 const recommendations = {
   beaches: [
     {title:'Grace Bay, Turks & Caicos', text:'Powder-white sand and calm turquoise water make this an easygoing Caribbean classic.', image:'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1000&q=85'},
-    {title:'Whitehaven Beach, Australia', text:'Silica sand swirls through the Whitsundays in one of the world’s most striking coastal landscapes.', image:'https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?auto=format&fit=crop&w=1000&q=85'}],
+    {title:'McWay Falls, California', text:'A sheltered beach and a coastal waterfall create a spectacular view along California’s Big Sur coast.', image:'https://images.unsplash.com/photo-1510414842594-a61c69b5ae57?auto=format&fit=crop&w=1000&q=85'}],
   temples: [
     {title:'Kiyomizu-dera, Japan', text:'A timber temple above Kyoto, especially memorable among spring blossoms and autumn color.', image:'https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1000&q=85'},
     {title:'Wat Arun, Thailand', text:'Bangkok’s riverside Temple of Dawn glows with porcelain detail in the early morning light.', image:'https://images.unsplash.com/photo-1528181304800-259b08848526?auto=format&fit=crop&w=1000&q=85'}],
